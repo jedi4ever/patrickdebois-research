@@ -275,6 +275,7 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - Any guide on creating comic books with SD : https://www.reddit.com/r/comfyui/comments/16k0gvl/creating_comics/
 
 - I created a dialogue game in ComfyUI !: https://www.reddit.com/r/StableDiffusion/comments/18fln3i/i_created_a_dialogue_game_in_comfyui/
+- Great diagram on where to use in Hollywood production - https://dougshapiro.medium.com/ai-use-cases-in-hollywood-362707e899f1
 
 ## Critics
 - Using GPT-4 with Vision as an Art Critic: https://towardsdatascience.com/using-gpt-4-with-vision-as-an-art-critic-ec91080ba334
@@ -311,6 +312,8 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - Meet the generative video platform that brings your ideas to life :  https://assistive.chat/product/video
 - Krea - https://twitter.com/krea_ai/status/1723067313392320607
 - RenderNet - Fastest Stable Diffusion generator on the planet: https://rendernet.ai/
+- https://dreamstudio.ai/
+
 
 - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface : https://github.com/Stability-AI/StableSwarmUI
 - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation : https://github.com/cumulo-autumn/StreamDiffusion
@@ -318,6 +321,7 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - The AI and Generative Art platform for everyone: https://github.com/rvion/CushyStudio
 -  Stable diffusion command-line interface : https://github.com/nimadez/mental-diffusion
 - ImaginePy, opensource (reversed) API like Stable Diffusion, Midjourney. Everything at 0 Cost: https://github.com/ItsCEED/Imaginepy
+- StableStudio , Community interface for generative AI:  https://github.com/Stability-AI/StableStudio
 
 ## Dall-E
 - A sample application that shows how you can outpaint using the Dall-E API: https://github.com/SabatinoMasala/dalle-api-outpainting-sample

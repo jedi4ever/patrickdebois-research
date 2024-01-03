@@ -11,6 +11,7 @@
 - https://screenshottocode.com
 - https://makereal.tldraw.com/
 - Turn doodles into real code:  https://twitter.com/LinusEkenstam/status/1725073435951534143
+- The new Screenshot to Code from Vercel v0 is insane: https://twitter.com/dr_cintas/status/1734604588282794237
 
 - GPT-4-Vision: Wireframe-to-HTML & Tailwind CSS with Draw-A-UI: https://www.youtube.com/watch?v=cwyj2okgAio
 - Draw a mockup and generate html for it: https://github.com/SawyerHood/draw-a-ui

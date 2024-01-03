@@ -15,6 +15,8 @@
 - https://github.com/denonrailz/obsidian-autogen
 - The Swarm that Builds the Swarm : https://www.youtube.com/watch?v=D4FuVrrRi0A
 - The Autonomous Cognitive Entity (ACE) framework: https://github.com/daveshap/ACE_Framework/blob/main/ACE_Framework.md
+- Autonomous Agents Are Here: Introducing the ACE Framework
+: https://medium.com/@dave-shap/autonomous-agents-are-here-introducing-the-ace-framework-a180af15d57c
 - AutoGen Studio: Interactively Explore Multi-Agent Workflows: https://microsoft.github.io/autogen/blog/2023/12/01/AutoGenStudio/
 - Autogen studio code - https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio
 - Concordia - A library for generative social simulation: https://github.com/google-deepmind/concordia
@@ -36,17 +38,39 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - Agentverse: My Agents , Fetch.ai : https://fetch.ai/docs/concepts/agent-services/agent-hosting
 -  Promptly / LLMStack is a no-code platform for building generative AI Agents, workflows, chatbots and connecting them to your data and business processes: https://llmstack.ai/docs/
 - The official website for Auto-GPT. Explore the new frontier of autonomous AI and try the fastest growing open source project in the history of GitHub for yourself. - https://news.agpt.co/
+- Gptteam: Collaborative agents - https://blog.langchain.dev/gpteam-a-multi-agent-simulation/
+- MechAgents - https://www.linkedin.com/posts/joentakanen_multiagentsystems-ai-openaiassistants-activity-7130599771941089280-OsfZ/
+- TransformerOptimus/SuperAGI: <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably: https://github.com/TransformerOptimus/SuperAGI
+- Tonic-AI/DataTonic: 🌟DataTonic : A Data-Capable AGI-style Agent Builder of Agents , that creates swarms , runs commands and securely processes and creates datasets, databases, visualisations, and analyses. : https://github.com/Tonic-AI/DataTonic
+- MetaGPT - https://www.linkedin.com/posts/liorsinclair_impressive-metagpt-is-about-to-reach-30000-activity-7119376069719179264-0UZs/
+
+- Bedrock Agent Traces: New! Bedrock Agent Traces. Agents let you harness LLM reasoning skills to complete tasks. Traces give a view into to their chain of thought for the first time - https://www.linkedin.com/posts/activity-7125163922369761280-vQEA/
+
+- A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
+
+- Building fully-autonomous software engineering automation. - http://codegen.com
 
 - Herd, a group of llamas: Mixture of Expert (MoE) techniques for enhancing LLM performance through expert-driven prompt mapping and adapter combination: https://github.com/alexrs/herd
 - A Survey on LLM-based Autonomous Agents: https://github.com/Paitesanshi/LLM-Agent-Survey
+- New AI framework for superfast agentic decision making, unlimited tools, LLM steerability, and much more — semantic router can massively improve use-cases with RAG : https://twitter.com/jamescalam/status/1742174665844428844
 
 ## Autogen
 - Use AutoGen for Local LLMs:  https://microsoft.github.io/autogen/blog/2023/07/14/Local-LLMs/
 
+## Testing
+- LLM Agent Autonomous Replication & Adaptation Eval: https://twitter.com/johnjnay/status/1737322692942975091
+
+## Security
+- Role based access control (RBAC) is a non-trivial problem to solve with LLMs: https://twitter.com/ntkris/status/1673707457640640515
+
+
+## Copilots
+- Cykel.ai, An AI co-pilot for any digital task - https://www.cykel.ai/
 
 ## Gpts
 - This is an open source effort to create a similar experience to OpenAI's GPTs and Assistants API, It builds upon LangChain, LangServe and LangSmith.: https://github.com/langchain-ai/opengpts
 - Top ranked OpenAI GPTs: https://github.com/AgentOps-AI/BestGPTs/
+
 
 
 ## Use cases
@@ -57,7 +81,14 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - 𝐂𝐚𝐧 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 (𝐋𝐋𝐌𝐬) 𝐠𝐨 𝐛𝐞𝐲𝐨𝐧𝐝 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐭𝐨 𝐝𝐨𝐢𝐧g?:  https://www.linkedin.com/posts/markkovarski_foresee-and-reflect-far-activity-7116413995573526528-Ny2U/
 - LLM agents: the next platform shift in B2B software: https://www.mosaicventures.com/patterns/llm-agents-the-next-platform-shift-in-b2b-software
 - The AI Agents are Coming, 12 Predictions for 2024: https://medium.com/eviden-data-science-community/the-ai-agents-are-coming-a85b8fb1702d
+- Agents as fractional IT - https://twitter.com/pawelpszczesny/status/1734467928131518973
+- From Machine Learning to Autonomous Intelligence – AI-Talk by Prof. Dr. Yann LeCun -  https://www.linkedin.com/posts/yann-lecun_from-machine-learning-to-autonomous-intelligence-activity-7113924939442712576-4hzk
 
+- A holy grail for agents is combining parallel function execution with query planning capabilities:  https://twitter.com/jerryjliu0/status/1740778991064408450
+- Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp) - https://youtu.be/DWUdGhRrv2c
+- Building a RCI Chain for Agents with LangChain Expression Language - https://youtu.be/QaKM5s0TnsY
+
+- Conversational agents to have negative latency. They need to be able to interrupt and respond before I even finish : https://twitter.com/jxnlco/status/1680279646452035584
 
 ### LLM-OS
 - OpenAI's Bet on a Cognitive Architecture: https://blog.langchain.dev/openais-bet-on-a-cognitive-architecture/
@@ -69,21 +100,50 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - Epistemic Tribes : https://www.youtube.com/watch?v=VX3XBrhBV-M
 - The "Normsky" architecture for AI coding agents — with Beyang Liu + Steve Yegge of SourceGraph:  https://www.latent.space/p/sourcegraph?utm_source=post-email-title&publication_id=1084089&post_id=139766004
 - six types of agents: https://www.simform.com/blog/types-of-ai-agents/
+- Common topologies in agent-based simulation: https://softwaresim.com/blog/common-topologies-in-agent-based-simulation/
 - https://en.wikipedia.org/wiki/Jevons_paradox
+- Agent taxonomy -  http://www.upv.es/sma/teoria/agentes/is%20it%20an%20agent-franklin.pdf
 
 ## Multimodal 
 - Fuyu-8B: A Multimodal Architecture for AI Agents : https://www.adept.ai/blog/fuyu-8b
 - GPT4 vision to guide you through a new task now with vision: https://github.com/AmT42/ScreenGPT-Vision
 
 ## Record everything
+- Your AI assistant that has all the context:  https://www.rewind.ai/
+- This is a really cool consumer application of RAG with local models: store files/pages from browsing the web 🌐, and treat it as your personal "memory bank" that you can chat with : https://twitter.com/jerryjliu0/status/1734749409219653878
+
 - captures your current topmost application and the URL/file with timestamps : https://github.com/albertz/timecapture
 - Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did : https://github.com/apirrone/Memento
+- archivebox.io: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more https://github.com/ArchiveBox/ArchiveBox
+
+## Coordination
+- The coordinated control of autonomous agents - University of Iowa:  https://iro.uiowa.edu/esploro/outputs/doctoral/The-coordinated-control-of-autonomous-agents/9983777378702771
+- Yeager.ai x LangChain: Exploring GenWorlds a Framework for Coordinating AI Agents: https://blog.langchain.dev/exploring-genworlds/
+
 
 ## Memory
+- I have conducted 1000s of hours of research on human memory : https://twitter.com/brianroemmele/status/1741237796273360960?
+
+- MemGPT: Unlimited Memory without Token Constraints for Generative AI Platforms, like GPT-4, LaMDA, PaLM, LLAMA, CLAUDE, and others: https://medium.com/@lawrenceteixeira/memgpt-unlimited-memory-without-token-constraints-for-generative-ai-platforms-like-gpt-4-lamda-0c755ece7d05
+- explicit-memory, A machine with human-like memory systems -  https://github.com/tae898/explicit-memory
+- GitHub - daveshap/REMO_Framework: Rolling Episodic Memory Organizer (REMO) for autonomous AI system - https://github.com/daveshap/REMO_Framework
+- A chat interface that uses the REMO memory system with LangFlow : https://github.com/hunter-meloche/REMO-langflow
+
 - LangChain and the Evolution of LLM: Why Memory Matters: https://blog.gopenai.com/langchain-and-the-evolution-of-llm-why-memory-matters-bcb3cdcbdc31
 - Shared memory across agents and tools , Langchain: https://python.langchain.com/docs/modules/agents/how_to/sharedmemory_for_tools
 - Proposing a Long-term Memory Mechanism for GPT Models: https://community.openai.com/t/proposing-a-long-term-memory-mechanism-for-gpt-models/415641
+- Adding Long Term Memory to OpenGPTs: https://blog.langchain.dev/adding-long-term-memory-to-opengpts/
+- OpenGPT meets Generative Agents to get Long term Memory - https://twitter.com/saboo_shubham_/status/1730810920207622610
 
+
+- Conversation Knowledge Graph - This type of memory uses a knowledge graph to recreate memory : https://python.langchain.com/docs/modules/memory/types/kg
+
+
+
+## RAG & Chunking
+- Agentic Chunking? - https://twitter.com/gregkamradt/status/1738276097471754735
+- Anyone have a link/demo of agent chunking?- https://twitter.com/gregkamradt/status/1725606287835369547
+- LlamaIndex RAG-AGENT: Query and summarize over database:  https://medium.com/@tensorcist/llamaindex-rag-agent-query-and-summarize-over-database-dad199e8845b
 
 ### Sparse Priming Representations
 - Don't Use MemGPT!! This is way better (and easier)! Use Sparse Priming Representations: https://www.youtube.com/watch?v=piRMk2KIx2o

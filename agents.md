@@ -129,6 +129,7 @@
 - AI and the automation of work: https://www.mosaicventures.com/patterns/ai-and-the-automation-of-work
 
 - The image I'm sharing today encapsulates the architectural evolution that's on the horizon. , Kubiya - https://www.linkedin.com/posts/activity-7145065692839444482-MDIA/
+- Building Blocks of AGI — How Agent Architecture is Shaping the Way we Build AGI Systems - https://medium.com/madhukarkumar/building-blocks-of-agi-how-agent-architecture-is-shaping-the-way-we-build-agi-systems-3672b4dd8b56
 
 
 

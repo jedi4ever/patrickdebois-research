@@ -278,6 +278,8 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 
 ## Critics
 - Using GPT-4 with Vision as an Art Critic: https://towardsdatascience.com/using-gpt-4-with-vision-as-an-art-critic-ec91080ba334
+- An interesting unexpected use case for GPT-4 with vision - it makes a pretty good intelligent picture coach: https://twitter.com/emollick/status/1707634298507956569
+- https://github.com/logicalroot/gpt-4v-demos/blob/main/pages/3_%F0%9F%93%8B_Quality_Control.py
 
 ## Installers / deploys
 - Run ComfyUI workflows on multiple local GPUs/networked machines.: https://github.com/city96/ComfyUI_NetDist
@@ -314,7 +316,8 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation : https://github.com/cumulo-autumn/StreamDiffusion
 - VisionCrafter tool with GUI for AnimateDiff and other projects, that generates animations and music from text: https://github.com/diStyApps/VisionCrafter
 - The AI and Generative Art platform for everyone: https://github.com/rvion/CushyStudio
-- https://github.com/nimadez/mental-diffusion: Stable diffusion command-line interface
+-  Stable diffusion command-line interface : https://github.com/nimadez/mental-diffusion
+- ImaginePy, opensource (reversed) API like Stable Diffusion, Midjourney. Everything at 0 Cost: https://github.com/ItsCEED/Imaginepy
 
 ## Dall-E
 - A sample application that shows how you can outpaint using the Dall-E API: https://github.com/SabatinoMasala/dalle-api-outpainting-sample

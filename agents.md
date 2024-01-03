@@ -82,6 +82,8 @@
 - GPT Builder at home...having an agent build another agent!  - https://twitter.com/jerryjliu0/status/1721639447207583882
 - Rivet Is An Open-Source Visual AI Programming Environment which is suited for building complex agents with LLM Prompts, and it was Open Sourced recently - https://twitter.com/cobusgreylingza/status/1701566980728242199
 - a single common interface for communicating with agents. - https://agentprotocol.ai/
+- Amplify your team's potential with customizable and secure AI assistants. https://dust.tt/
+
 
 
 ## Autogen
@@ -220,6 +222,8 @@
 - OpenAdapt is the open source software adapter between Large Multimodal Models (LMMs) and traditional desktop and web Graphical User Interfaces (GUIs): https://github.com/OpenAdaptAI/OpenAdapt
 - pywebagent - an experimental AI web agent:  https://github.com/pywebagent/pywebagent
 - Agents still doesn't stop amazing me even with everyday use but MultiON_AI fully blazes it 🤩!: https://twitter.com/divgarg9/status/1741962910656581998
+- We’re building a machine learning model that can interact with everything on your computer - https://www.adept.ai/
+
 
 
 ## Tools

@@ -33,8 +33,10 @@
 - An openagents platform : https://github.com/OpenAgentsInc/openagents
 - AutoGen - Enable Next-Gen Large Language Model Application : https://microsoft.github.io/autogen/
 - LLAMindex - Lower-Level Agent API https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/agent_runner.html
-- MultiAgentSystems, AI Self-Modification and Self-Replication: A Future Perspective
-: https://huggingface.co/MultiAgentSystems
+
+- Announcing AutoChain: Build lightweight, extensible, and testable LLM Agents - https://engineering.forethought.ai/blog/2023/07/14/announcing-autochain-build-lightweight-extensible-and-testable-llm-agents/
+
+- MultiAgentSystems, AI Self-Modification and Self-Replication: A Future Perspective: https://huggingface.co/MultiAgentSystems
 - Ix , Autonomous GPT-4 agent platform: https://github.com/kreneskyp/ix
 - Agentverse: My Agents , Fetch.ai : https://fetch.ai/docs/concepts/agent-services/agent-hosting
 -  Promptly / LLMStack is a no-code platform for building generative AI Agents, workflows, chatbots and connecting them to your data and business processes: https://llmstack.ai/docs/

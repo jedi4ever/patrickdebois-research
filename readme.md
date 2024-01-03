@@ -7,6 +7,9 @@
 ## Samplers
 - Stable Diffusion Samplers: A Comprehensive Guide: https://stable-diffusion-art.com/samplers/
 
+## CFG
+- Stable Diffusion Deep Dive - CFG - Don't Accidentally Fry Your Images: https://www.youtube.com/watch?v=kuhO9zAzetks
+
 ## Prompting
 - Camera angles prompts : https://generativeai.pub/stable-diffusion-enables-the-control-of-camera-distance-and-angles-using-prompts-53ca4d1c9981
 - GPT-4 + Stable-Diffusion = ?: Enhancing prompt understanding of text-to-image diffusion models with large language models : https://aihub.org/2023/06/26/gpt-4-stable-diffusion-enhancing-prompt-understanding-of-text-to-image-diffusion-models-with-large-language-models/
@@ -41,6 +44,8 @@
 - Stable Diffusion Inpainting with Segment Anything Model (SAM) : https://www.youtube.com/watch?v=CERvlvUvVEI
 - (track-anything )Tutorial install Track-Anything for video in Windows:  https://www.reddit.com/r/StableDiffusion/comments/1306qap/trackanything_tutorial_install_trackanything_for/
 - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI: https://github.com/gaomingqi/Track-Anything
+- Easy stable diffusion inpainting with Segment Anything Model: https://www.ikomia.ai/blog/stable-diffusion-inpainting-with-segment-anything-model-sam-using-the-ikomia-api
+
 - color_coding_semantic_segmentation_classes :  https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit?pli=1#gid=0
 
 ### Depth
@@ -59,6 +64,7 @@ Matteo Series:
 - How to use IPAdapter models in ComfyUI: https://www.youtube.com/watch?v=7m9ZZFU3HWo
 - IP-Adapter advanced features : https://www.youtube.com/watch?v=mJQ62ly7jrg
 - Attention Masking with IPAdapter and ComfyUI:  https://www.youtube.com/watch?v=vqG1VXKteQg
+- Jellyfish Ballerina Animation with AnimateDiff: https://www.youtube.com/watch?v=_f-jv311w-g
 
 - A1111: IP Adapter ControlNet Tutorial (Stable Diffusion) : https://www.youtube.com/watch?v=KHm5Q5TfNvE
 - IP-Adapters are the New Killer App for Stable Diffusion in Comfy-UI : https://www.youtube.com/watch?v=ySqrmxl4jUE
@@ -80,6 +86,7 @@ Matteo Series:
 - Comfyui AnimateDiff v3 + LCM Video to Video - https://www.youtube.com/watch?v=XQLtI0KT2G0
 - Ai Animation With ComfyUI: https://www.youtube.com/watch?v=YulLJ7ixBvg
 - ComfyUI AnimateDiff Flicker-Free Inpainting : https://www.youtube.com/watch?v=eUJ06FWc3Go
+- Stable Diffusion Animation Create Tiktok Dance AI Video (Tutorial Guide): https://www.youtube.com/watch?v=wFahkr-b7HI
 
 - ComfyUI AnimateDiff Prompt Travel, ControlNets and Video to Video : https://www.youtube.com/watch?v=Drh8jpjE1yo
 - Prompt travelling : https://www.andyhtu.com/post/animatediff-animation-control-how-to-prompt-travel-in-automatic111
@@ -93,22 +100,32 @@ Matteo Series:
 
 ## Motion Lora
 - Motion LoRAs in AnimateDiff : https://www.youtube.com/watch?v=rMOnq2he5dQ&list=TLPQMjkxMjIwMjPv9c0Nep2Qtw&index=3
+- Understanding Motion and LoRa Models for AnimateDiff: https://www.andyhtu.com/post/understanding-motion-and-lora-models-for-animatediff
+
 
 ## LCM Lora 
 - Using LCM Lora for consistency + animatediff - https://stable-diffusion-art.com/lcm-lora/
 - Latent Consistency Model for ComfyUI - https://github.com/0xbitches/ComfyUI-LCM
 - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference: https://github.com/luosiallen/latent-consistency-model
 - Stable Diffusion ComfyUI Install Latent Consistency Model (LCM) (Tutorial Guide) - https://www.youtube.com/watch?v=y0Tw9Zb4Sy4
+- Testing LCM LORAs in an AnimateDiff & multi-controlnet workflow in ComfyUI. - https://twitter.com/coffeevectors/status/1724579821093540182
+-ComfyUI Setup & AnimateDiff-Evolved Workflow + ControlNet OpenPose and QRcode Monster : https://www.youtube.com/watch?v=GV_syPyGSDY
+
+
+Use LCM in Ksampler:
 
 ## Detailers
 - Adetailer: Automatically fix faces and hands:  https://stable-diffusion-art.com/adetailer/
 - Auto detecting, masking and inpainting with detection model: https://github.com/Bing-su/adetailer
 
+## Scalers & Enhancers
 - VRT: A Video Restoration Transformer - https://github.com/JingyunLiang/VRT
 
 ## Interpolator
 - Make smooth AI generated videos with AnimateDiff and an interpolator: https://replicate.com/blog/animatediff-interpolator
 - CONSISTENT VID2VID WITH ANIMATEDIFF AND COMFYUI , enigmatic_e:  https://www.youtube.com/watch?app=desktop&v=P4IdHKHrb48
+- A custom node set for Video Frame Interpolation in ComfyUI: https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
+
 
 ## Faceswap
 - REACTOR - Face Swap for A1111 - Full Guide! Better than Roop! : https://www.youtube.com/watch?v=jNmOGVFQwaY
@@ -133,6 +150,14 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 ## Training
 - Using replicate to train a lora: https://www.shruggingface.com/blog/self-portraits-with-stable-diffusion-and-lora
 - https://tryolabs.com/blog/2022/10/25/the-guide-to-fine-tuning-stable-diffusion-with-your-own-images
+- Training my first SD LoRA: https://weirdwonderfulai.art/tutorial/training-my-first-sd-lora/
+- Dreambooth Training for Personal Embedding: https://bennycheung.github.io/dreambooth-training-for-personal-embedding
+- Stable Diffusion Lora Training with Kohya (Tutorial): https://www.youtube.com/watch?v=_F39RbO3tYo
+
+
+## LLM & Vision
+- A ComfyUI extension for chatting with your images with LLaVA. Runs locally, no external services, no filter.: https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner
+- No module named 'llama_cpp' - https://github.com/ceruleandeep/ComfyUI-LLaVA-Captioner/issues/1
 
 ## Models
 - https://civitai.com/ 
@@ -140,6 +165,10 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - https://github.com/civitai/civitai/wiki/How-to-use-models#fine-tuned-model-checkpoints-dreambooth-models
 
 - epiCRealism: https://civitai.com/models/25694?modelVersionId=143906
+
+### UX/UI
+- Ui-Ux (LORA) : https://civitai.com/models/98715/ui-ux-lora
+- Ui-Ux (LORA) - A tool to speed up your concept workflow, not to replace it.: https://stablediffusionapi.com/models/ui-ux
 
 ## Comfy Workflows
 - https://comfyworkflows.com/
@@ -156,6 +185,8 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - How to Build an AI Children’s Book Service Ep. 1 — Deploy a Serverless Stable Diffusion API:  https://medium.com/@andrei.generative/how-to-build-an-ai-childrens-book-service-ep-1-deploy-a-serverless-stable-diffusion-api-5e7b0766d9e6
 - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech : https://github.com/jaketae/storyteller
 - Become a Meme and Comic Strip guru in ComfyUI!: https://www.youtube.com/watch?v=piZrhyvw6f4
+- Any guide on creating comic books with SD : https://www.reddit.com/r/comfyui/comments/16k0gvl/creating_comics/
+
 - I created a dialogue game in ComfyUI !: https://www.reddit.com/r/StableDiffusion/comments/18fln3i/i_created_a_dialogue_game_in_comfyui/
 
 ## Critics
@@ -166,6 +197,7 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - A serverless application that uses AnimateDiff to run a Text-to-Video task on RunPod:  https://github.com/sky24h/AnimateDiff_Serverless_Runpod
 - Cog: Containers for machine learning : https://github.com/replicate/cog
 - ComfyUI Docker Image:  https://github.com/ai-dock/comfyui
+- The next gen Serverless ComfyUI Cloud: https://comfy.icu/serverless/
 
 
 ## AI-Agents

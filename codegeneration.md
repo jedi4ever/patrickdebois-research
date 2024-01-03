@@ -14,6 +14,7 @@
 
 - Managing an AI developer: Lessons Learned from SMOL AI — Part 2 - https://pub.towardsai.net/managing-an-ai-developer-lessons-learned-from-smol-ai-part-2-a949689ce2c
 
+- Sweep: AI-powered junior dev - https://docs.sweep.dev/
 
 
 ## Wireframe to Code

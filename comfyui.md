@@ -269,10 +269,11 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - Building a Python API for Comfy UI with Gradio: https://www.youtube.com/watch?v=yspMVTL08Rc
 
 ## Storytelling
-- How to Build an AI Children’s Book Service Ep. 1 — Deploy a Serverless Stable Diffusion API:  https://medium.com/@andrei.generative/how-to-build-an-ai-childrens-book-service-ep-1-deploy-a-serverless-stable-diffusion-api-5e7b0766d9e6
+- How to Build an AI Children’s Book Service Ep. 1 — Deploy a Serverless Stable Diffusion API:  https://medium.com/@andrei.generative/how-to-build-an-ai-childrens-book-service-ephttps://www.linkedin.com/posts/eric-vyacheslav-156273169_this-changes-everything-this-new-ai-agent-activity-7090386788229263360-FUmr/?utm_source%253Dshare%2526utm_medium%253Dmember_ios-1-deploy-a-serverless-stable-diffusion-api-5e7b0766d9e6
 - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech : https://github.com/jaketae/storyteller
 - Become a Meme and Comic Strip guru in ComfyUI!: https://www.youtube.com/watch?v=piZrhyvw6f4
 - Any guide on creating comic books with SD : https://www.reddit.com/r/comfyui/comments/16k0gvl/creating_comics/
+- This new AI Agent can create whole episodes of TV shows with a single prompt  - https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-changes-everything-this-new-ai-agent-activity-7090386788229263360-FUmr/
 
 - I created a dialogue game in ComfyUI !: https://www.reddit.com/r/StableDiffusion/comments/18fln3i/i_created_a_dialogue_game_in_comfyui/
 - Great diagram on where to use in Hollywood production - https://dougshapiro.medium.com/ai-use-cases-in-hollywood-362707e899f1

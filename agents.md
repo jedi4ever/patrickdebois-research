@@ -30,8 +30,8 @@
 :  https://twitter.com/Altimor/status/1721250514946732190
 - ExpertGpts: Configure chains within a yaml file - https://github.com/andrescevp/expert_gpts
 - An openagents platform : https://github.com/OpenAgentsInc/openagents
-- AutoGen
-Enable Next-Gen Large Language Model Application : https://microsoft.github.io/autogen/
+- AutoGen - Enable Next-Gen Large Language Model Application : https://microsoft.github.io/autogen/
+- LLAMindex - Lower-Level Agent API https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/agent_runner.html
 - MultiAgentSystems, AI Self-Modification and Self-Replication: A Future Perspective
 : https://huggingface.co/MultiAgentSystems
 - Ix , Autonomous GPT-4 agent platform: https://github.com/kreneskyp/ix
@@ -48,9 +48,20 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - How to get started with AWS Bedrock Agents as code
 :  https://pjcr.medium.com/how-to-get-started-with-aws-bedrock-agents-as-code-80b59e151f39
 
-- A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
+- Implementation of "Generative Agents: Interactive Simulacra of Human Behavior" paper with Guidance and Langchain. Full features and work with local LLMs : https://github.com/QuangBK/generativeAgent_LLM
 
-- Building fully-autonomous software engineering automation. - http://codegen.com
+- A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
+- GPTEngineer - https://twitter.com/brianroemmele/status/1669096441774759936
+- GPTEngineer - https://github.com/gpt-engineer-org/gpt-engineer
+
+- from agents to super agents - gen ai powered agent assist bot empowers human agents & boost their productivity - https://floatbot.ai/ai-agent-assist
+
+- Autogpt , BabyAGI - https://twitter.com/shai_alon/status/1667437664113512448
+- Your virtual R&D team , "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. https://github.com/personoids/personoids-lite
+
+- Rift Agents API, which allows anyone to develop agents that can use the Rift language server to suggest codebase-wide edits to the user in their IDE. - https://github.com/morph-labs/rift
+
+- CodeGen , Building fully-autonomous software engineering automation. - http://codegen.com
 
 - Herd, a group of llamas: Mixture of Expert (MoE) techniques for enhancing LLM performance through expert-driven prompt mapping and adapter combination: https://github.com/alexrs/herd
 - A Survey on LLM-based Autonomous Agents: https://github.com/Paitesanshi/LLM-Agent-Survey
@@ -61,6 +72,9 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 
 ## Testing
 - LLM Agent Autonomous Replication & Adaptation Eval: https://twitter.com/johnjnay/status/1737322692942975091
+- Some big issues with LLM agents include lack of transparency, debuggability, and control : https://twitter.com/llama_index/status/1736809248947155076
+- Today I’m excited to introduce a brand-new capability in @llama_index: step-wise agent execution - https://twitter.com/jerryjliu0/status/1736809589918904712
+
 
 ## Security
 - Role based access control (RBAC) is a non-trivial problem to solve with LLMs: https://twitter.com/ntkris/status/1673707457640640515
@@ -73,7 +87,8 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - This is an open source effort to create a similar experience to OpenAI's GPTs and Assistants API, It builds upon LangChain, LangServe and LangSmith.: https://github.com/langchain-ai/opengpts
 - Top ranked OpenAI GPTs: https://github.com/AgentOps-AI/BestGPTs/
 
-
+## Strategies
+- hought Cloning: AI Agent Learning to Think while Acting by Imitating Human Thinking  - https://twitter.com/johnjnay/status/1664949764801044482
 
 ## Use cases
 - Elevate your AI agents with the robust Obsidian AutoGen framework: LLM Agent taught to control drones: https://www.goodai.com/llm-agent-taught-to-control-drones/

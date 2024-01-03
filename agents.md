@@ -45,6 +45,8 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - MetaGPT - https://www.linkedin.com/posts/liorsinclair_impressive-metagpt-is-about-to-reach-30000-activity-7119376069719179264-0UZs/
 
 - Bedrock Agent Traces: New! Bedrock Agent Traces. Agents let you harness LLM reasoning skills to complete tasks. Traces give a view into to their chain of thought for the first time - https://www.linkedin.com/posts/activity-7125163922369761280-vQEA/
+- How to get started with AWS Bedrock Agents as code
+:  https://pjcr.medium.com/how-to-get-started-with-aws-bedrock-agents-as-code-80b59e151f39
 
 - A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
 
@@ -89,11 +91,17 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - Building a RCI Chain for Agents with LangChain Expression Language - https://youtu.be/QaKM5s0TnsY
 
 - Conversational agents to have negative latency. They need to be able to interrupt and respond before I even finish : https://twitter.com/jxnlco/status/1680279646452035584
+- Introducing our work on general-purpose LLM Agents: https://www.goodai.com/introducing-general-purpose-llm-agents/
+- AI and the automation of work: https://www.mosaicventures.com/patterns/ai-and-the-automation-of-work
+
 
 ### LLM-OS
 - OpenAI's Bet on a Cognitive Architecture: https://blog.langchain.dev/openais-bet-on-a-cognitive-architecture/
 - LLM Powered Autonomous Agents:  https://lilianweng.github.io/posts/2023-06-23-agent/
 - At the Intersection of LLMs and Kernels - Research Roundup: https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html
+
+## Testing
+- Source code for our paper: "Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena" - https://github.com/jiangjiechen/auction-arena
 
 ## Concepts
 - Machine Autonomy : https://www.youtube.com/watch?v=rV-qyM0hHQY
@@ -158,6 +166,8 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 - A framework to enable multimodal models to operate a computer: https://github.com/OthersideAI/self-operating-computer
 - control your computer with gpt-4's ability to recognize images: https://github.com/s-a-ng/control-pc-with-gpt4-vision/blob/main/main.py
 - OpenAdapt is the open source software adapter between Large Multimodal Models (LMMs) and traditional desktop and web Graphical User Interfaces (GUIs): https://github.com/OpenAdaptAI/OpenAdapt
+- pywebagent - an experimental AI web agent:  https://github.com/pywebagent/pywebagent
+- Agents still doesn't stop amazing me even with everyday use but MultiON_AI fully blazes it 🤩!: https://twitter.com/divgarg9/status/1741962910656581998
 
 
 ## Tools

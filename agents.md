@@ -32,9 +32,21 @@
 Enable Next-Gen Large Language Model Application : https://microsoft.github.io/autogen/
 - MultiAgentSystems, AI Self-Modification and Self-Replication: A Future Perspective
 : https://huggingface.co/MultiAgentSystems
+- Ix , Autonomous GPT-4 agent platform: https://github.com/kreneskyp/ix
+- Agentverse: My Agents , Fetch.ai : https://fetch.ai/docs/concepts/agent-services/agent-hosting
+-  Promptly / LLMStack is a no-code platform for building generative AI Agents, workflows, chatbots and connecting them to your data and business processes: https://llmstack.ai/docs/
+- The official website for Auto-GPT. Explore the new frontier of autonomous AI and try the fastest growing open source project in the history of GitHub for yourself. - https://news.agpt.co/
 
 - Herd, a group of llamas: Mixture of Expert (MoE) techniques for enhancing LLM performance through expert-driven prompt mapping and adapter combination: https://github.com/alexrs/herd
+- A Survey on LLM-based Autonomous Agents: https://github.com/Paitesanshi/LLM-Agent-Survey
 
+## Autogen
+- Use AutoGen for Local LLMs:  https://microsoft.github.io/autogen/blog/2023/07/14/Local-LLMs/
+
+
+## Gpts
+- This is an open source effort to create a similar experience to OpenAI's GPTs and Assistants API, It builds upon LangChain, LangServe and LangSmith.: https://github.com/langchain-ai/opengpts
+- Top ranked OpenAI GPTs: https://github.com/AgentOps-AI/BestGPTs/
 
 
 ## Use cases
@@ -43,6 +55,14 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 ## Thoughts
 - AI may be on a trajectory to surpass human intelligence; we should be prepared:  https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek
 - 𝐂𝐚𝐧 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 (𝐋𝐋𝐌𝐬) 𝐠𝐨 𝐛𝐞𝐲𝐨𝐧𝐝 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐭𝐨 𝐝𝐨𝐢𝐧g?:  https://www.linkedin.com/posts/markkovarski_foresee-and-reflect-far-activity-7116413995573526528-Ny2U/
+- LLM agents: the next platform shift in B2B software: https://www.mosaicventures.com/patterns/llm-agents-the-next-platform-shift-in-b2b-software
+- The AI Agents are Coming, 12 Predictions for 2024: https://medium.com/eviden-data-science-community/the-ai-agents-are-coming-a85b8fb1702d
+
+
+### LLM-OS
+- OpenAI's Bet on a Cognitive Architecture: https://blog.langchain.dev/openais-bet-on-a-cognitive-architecture/
+- LLM Powered Autonomous Agents:  https://lilianweng.github.io/posts/2023-06-23-agent/
+- At the Intersection of LLMs and Kernels - Research Roundup: https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html
 
 ## Concepts
 - Machine Autonomy : https://www.youtube.com/watch?v=rV-qyM0hHQY
@@ -61,8 +81,17 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 
 ## Memory
 - LangChain and the Evolution of LLM: Why Memory Matters: https://blog.gopenai.com/langchain-and-the-evolution-of-llm-why-memory-matters-bcb3cdcbdc31
+- Shared memory across agents and tools , Langchain: https://python.langchain.com/docs/modules/agents/how_to/sharedmemory_for_tools
+- Proposing a Long-term Memory Mechanism for GPT Models: https://community.openai.com/t/proposing-a-long-term-memory-mechanism-for-gpt-models/415641
+
+
+### Sparse Priming Representations
 - Don't Use MemGPT!! This is way better (and easier)! Use Sparse Priming Representations: https://www.youtube.com/watch?v=piRMk2KIx2o
+- Sparse Priming Representations - the secret ingredient to scalable AGI memories: https://www.youtube.com/watch?v=r1F8GYjBAfY
 - Sparse Priming Representations (SPR): https://github.com/daveshap/SparsePrimingRepresentations
+- Sparse Priming Representation (SPR): A Comprehensive Overview: https://medium.com/prompt-engineering/sparse-priming-representation-spr-a-comprehensive-overview-ac9e6ab8a138
+
+- Remembering Conversations: Building Chatbots with Short and Long-Term Memory on AWS - https://itnext.io/remembering-conversations-building-chatbots-with-short-and-long-term-memory-on-aws-c1361c130046
 
 
 ## Clicks
@@ -83,3 +112,4 @@ Enable Next-Gen Large Language Model Application : https://microsoft.github.io/a
 ## Vision Models
 - TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting: https://github.com/moymix/TaskMatrix
 - GPT-4 Vision Alternatives: https://blog.roboflow.com/gpt-4-vision-alternatives/
+- Build Agents with Vision Abilities Using OpenAI & AutoGen & Llava & Stable Diffusion: https://henrywithu.com/advanced-build-agents-with-vision-abilities-using-openai-autogen-llava-stable-diffusion/

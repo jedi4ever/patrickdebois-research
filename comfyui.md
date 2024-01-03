@@ -195,7 +195,7 @@ A minimalistic implementation of Robust Video Matting (RVM) in ComfyUI : https:/
 - Drawing Near Real Time Rendering IN ComfyUI? - https://youtu.be/ZF1GJasG7kc?si=mlV86IyJam9OyczS
 - ComfyUI canvas editor page - https://github.com/Lerc/canvas_tab
 - PainterNode allows you to draw in the node window: https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet/tree/master/PainterNode
-
+- So, Generative AI in REAL TIME is here - https://twitter.com/javilopen/status/1724398666889224590
 
 ## Text
 - Overlay text on an image in ComfyUI with font/alignment/placement customization - https://github.com/mikkel/ComfyUI-text-overlay

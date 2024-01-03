@@ -44,6 +44,8 @@
 - TransformerOptimus/SuperAGI: <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably: https://github.com/TransformerOptimus/SuperAGI
 - Tonic-AI/DataTonic: 🌟DataTonic : A Data-Capable AGI-style Agent Builder of Agents , that creates swarms , runs commands and securely processes and creates datasets, databases, visualisations, and analyses. : https://github.com/Tonic-AI/DataTonic
 - MetaGPT - https://www.linkedin.com/posts/liorsinclair_impressive-metagpt-is-about-to-reach-30000-activity-7119376069719179264-0UZs/
+- Compliant-agent, a LangChain agent with advanced prompt engineering that checks if a user’s action is compliant before doing it - https://twitter.com/briankitano/status/1673861249069899776
+
 
 - Bedrock Agent Traces: New! Bedrock Agent Traces. Agents let you harness LLM reasoning skills to complete tasks. Traces give a view into to their chain of thought for the first time - https://www.linkedin.com/posts/activity-7125163922369761280-vQEA/
 - How to get started with AWS Bedrock Agents as code
@@ -150,6 +152,7 @@
 - World model is a core concept in AI agent and decision making. It is our mental simulation of how the world works given interventions (or lack thereof). - https://twitter.com/drjimfan/status/1709947595525951787
 - Building Cooperative Embodied Agents Modularly with Large Language Models - https://twitter.com/_akhaliq/status/1676768086697885699
 - AgentOps - https://twitter.com/mlejva/status/1648328276488892425
+- The Complete Beginners Guide To Autonomous Agents - https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents 
 
 
 ## Multimodal 
@@ -220,6 +223,9 @@
 - Stable diffusion & image tools for langchain example - https://github.com/manskx/photo-GPT-telegram/tree/main/photo_gpt
 
 - Code Interpreter API. It's an implementation of the ChatGPT Code Interpreter using LangChain Agents: https://blog.langchain.dev/code-interpreter-api/
+- jbpayton/llm-auto-forge: A langchain based tool to allow agents to dynamically create, use, store, and retrieve tools to solve real world problems - https://github.com/jbpayton/llm-auto-forge
+- allowing agents to use long-running AWS step functions - https://twitter.com/hacubu/status/1675533038560890880
+
 
 ## Security 
 

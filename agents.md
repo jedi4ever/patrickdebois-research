@@ -67,13 +67,17 @@
 - A Survey on LLM-based Autonomous Agents: https://github.com/Paitesanshi/LLM-Agent-Survey
 - New AI framework for superfast agentic decision making, unlimited tools, LLM steerability, and much more — semantic router can massively improve use-cases with RAG : https://twitter.com/jamescalam/status/1742174665844428844
 
+- React agent in Langchain with local LLM - https://betterprogramming.pub/a-simple-agent-with-guidance-and-local-llm-c0865c97eaa9
+
 ## Autogen
 - Use AutoGen for Local LLMs:  https://microsoft.github.io/autogen/blog/2023/07/14/Local-LLMs/
 
-## Testing
+## Testing & Debugging
 - LLM Agent Autonomous Replication & Adaptation Eval: https://twitter.com/johnjnay/status/1737322692942975091
 - Some big issues with LLM agents include lack of transparency, debuggability, and control : https://twitter.com/llama_index/status/1736809248947155076
 - Today I’m excited to introduce a brand-new capability in @llama_index: step-wise agent execution - https://twitter.com/jerryjliu0/status/1736809589918904712
+- LangChain Tracing: How to use a tracing tool to investigate and debug agent’s execution steps:
+ https://blog.gopenai.com/langchain-tracing-how-to-use-a-tracing-tool-to-investigate-and-debug-agents-execution-steps-53c5b423e3d0
 
 
 ## Security
@@ -109,11 +113,15 @@
 - Introducing our work on general-purpose LLM Agents: https://www.goodai.com/introducing-general-purpose-llm-agents/
 - AI and the automation of work: https://www.mosaicventures.com/patterns/ai-and-the-automation-of-work
 
+- The image I'm sharing today encapsulates the architectural evolution that's on the horizon. , Kubiya - https://www.linkedin.com/posts/activity-7145065692839444482-MDIA/
+
+
 
 ### LLM-OS
 - OpenAI's Bet on a Cognitive Architecture: https://blog.langchain.dev/openais-bet-on-a-cognitive-architecture/
 - LLM Powered Autonomous Agents:  https://lilianweng.github.io/posts/2023-06-23-agent/
 - At the Intersection of LLMs and Kernels - Research Roundup: https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html
+- LLM Core, Code Shell (well established) , LLM Shell, Code Core (emerging) - https://twitter.com/swyx/status/1668679998566461440
 
 ## Testing
 - Source code for our paper: "Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena" - https://github.com/jiangjiechen/auction-arena

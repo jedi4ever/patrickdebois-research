@@ -21,6 +21,7 @@
 - Autogen studio code - https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio
 - Concordia - A library for generative social simulation: https://github.com/google-deepmind/concordia
 - MetaGPT, he Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo: https://github.com/geekan/MetaGPT
+- MetaGPT is trending on GitHub - https://twitter.com/saboo_shubham_/status/1688256054512029696
 -An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform: https://github.com/langgenius/dify
 - ChatDev , Personalize your AI Town and build your GPTs with PromptIDE: https://chatdev.toscl.com/
 - ChatDev, Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration): https://github.com/OpenBMB/ChatDev
@@ -47,12 +48,17 @@
 - Bedrock Agent Traces: New! Bedrock Agent Traces. Agents let you harness LLM reasoning skills to complete tasks. Traces give a view into to their chain of thought for the first time - https://www.linkedin.com/posts/activity-7125163922369761280-vQEA/
 - How to get started with AWS Bedrock Agents as code
 :  https://pjcr.medium.com/how-to-get-started-with-aws-bedrock-agents-as-code-80b59e151f39
+- Bedrock Agents - https://aws.amazon.com/bedrock/agents/
 
 - Implementation of "Generative Agents: Interactive Simulacra of Human Behavior" paper with Guidance and Langchain. Full features and work with local LLMs : https://github.com/QuangBK/generativeAgent_LLM
 
 - A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
 - GPTEngineer - https://twitter.com/brianroemmele/status/1669096441774759936
 - GPTEngineer - https://github.com/gpt-engineer-org/gpt-engineer
+- daveshap/OpenAI_Agent_Swarm: HAAS = Hierarchical Autonomous Agent Swarm - https://github.com/daveshap/OpenAI_Agent_Swarm
+
+- Top 10 autonomous Agents - https://www.taskade.com/blog/top-autonomous-agents/
+- LehengTHU/Agent4Rec: The implementation of paper "On Generative Agents in Recommendation - https://github.com/LehengTHU/Agent4Rec
 
 - from agents to super agents - gen ai powered agent assist bot empowers human agents & boost their productivity - https://floatbot.ai/ai-agent-assist
 
@@ -62,12 +68,17 @@
 - Rift Agents API, which allows anyone to develop agents that can use the Rift language server to suggest codebase-wide edits to the user in their IDE. - https://github.com/morph-labs/rift
 
 - CodeGen , Building fully-autonomous software engineering automation. - http://codegen.com
+- ⚡ Agent-driven software development for enterprise codebases - https://twitter.com/mathemagic1an/status/1725193428060025306
 
 - Herd, a group of llamas: Mixture of Expert (MoE) techniques for enhancing LLM performance through expert-driven prompt mapping and adapter combination: https://github.com/alexrs/herd
 - A Survey on LLM-based Autonomous Agents: https://github.com/Paitesanshi/LLM-Agent-Survey
 - New AI framework for superfast agentic decision making, unlimited tools, LLM steerability, and much more — semantic router can massively improve use-cases with RAG : https://twitter.com/jamescalam/status/1742174665844428844
 
 - React agent in Langchain with local LLM - https://betterprogramming.pub/a-simple-agent-with-guidance-and-local-llm-c0865c97eaa9
+- GPT Builder at home...having an agent build another agent!  - https://twitter.com/jerryjliu0/status/1721639447207583882
+- Rivet Is An Open-Source Visual AI Programming Environment which is suited for building complex agents with LLM Prompts, and it was Open Sourced recently - https://twitter.com/cobusgreylingza/status/1701566980728242199
+- a single common interface for communicating with agents. - https://agentprotocol.ai/
+
 
 ## Autogen
 - Use AutoGen for Local LLMs:  https://microsoft.github.io/autogen/blog/2023/07/14/Local-LLMs/
@@ -134,6 +145,12 @@
 - Common topologies in agent-based simulation: https://softwaresim.com/blog/common-topologies-in-agent-based-simulation/
 - https://en.wikipedia.org/wiki/Jevons_paradox
 - Agent taxonomy -  http://www.upv.es/sma/teoria/agentes/is%20it%20an%20agent-franklin.pdf
+- CogAgent: A Visual Language Model for GUI Agents - https://twitter.com/_akhaliq/status/1735506330230636646
+- Simulating Complex Human Behavior Using LLM Agents : https://twitter.com/bindureddy/status/1731159974456574430
+- World model is a core concept in AI agent and decision making. It is our mental simulation of how the world works given interventions (or lack thereof). - https://twitter.com/drjimfan/status/1709947595525951787
+- Building Cooperative Embodied Agents Modularly with Large Language Models - https://twitter.com/_akhaliq/status/1676768086697885699
+- AgentOps - https://twitter.com/mlejva/status/1648328276488892425
+
 
 ## Multimodal 
 - Fuyu-8B: A Multimodal Architecture for AI Agents : https://www.adept.ai/blog/fuyu-8b
@@ -170,11 +187,17 @@
 - Conversation Knowledge Graph - This type of memory uses a knowledge graph to recreate memory : https://python.langchain.com/docs/modules/memory/types/kg
 
 
+-HyperWrite (OthersideAI) just released an agent that trains new agents automatically 🔥 From generating the dataset, the system messages for the LLM, and fine-tuning a Llama 2 model - GPT-llm-trainer - https://www.linkedin.com/posts/sahar-mor_hyperwrite-othersideai-just-released-an-activity-7095481051820539905--Drv/
 
 ## RAG & Chunking
 - Agentic Chunking? - https://twitter.com/gregkamradt/status/1738276097471754735
 - Anyone have a link/demo of agent chunking?- https://twitter.com/gregkamradt/status/1725606287835369547
+- Reasoned chunking - https://twitter.com/gregkamradt/status/1699465826485862543
 - LlamaIndex RAG-AGENT: Query and summarize over database:  https://medium.com/@tensorcist/llamaindex-rag-agent-query-and-summarize-over-database-dad199e8845b
+- Multi-Agent RAG Architecture - https://twitter.com/clusteredbytes/status/1708637770762031286
+-  hierarchical agents - by composing agents in a hierarchy, each specializing in certain tasks, we get more reliable/traceable tool execution - https://twitter.com/jerryjliu0/status/1699928967858327727
+- Recursive Document Agents - https://twitter.com/jerryjliu0/status/1693421308674289822
+
 
 ### Sparse Priming Representations
 - Don't Use MemGPT!! This is way better (and easier)! Use Sparse Priming Representations: https://www.youtube.com/watch?v=piRMk2KIx2o
@@ -206,3 +229,7 @@
 - TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting: https://github.com/moymix/TaskMatrix
 - GPT-4 Vision Alternatives: https://blog.roboflow.com/gpt-4-vision-alternatives/
 - Build Agents with Vision Abilities Using OpenAI & AutoGen & Llava & Stable Diffusion: https://henrywithu.com/advanced-build-agents-with-vision-abilities-using-openai-autogen-llava-stable-diffusion/
+
+
+## Other
+- chatGPT custom instructions is INSANE. You can build full agents - https://twitter.com/nickadobos/status/1682138883222544384

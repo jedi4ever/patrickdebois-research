@@ -36,6 +36,8 @@
 
 - Announcing AutoChain: Build lightweight, extensible, and testable LLM Agents - https://engineering.forethought.ai/blog/2023/07/14/announcing-autochain-build-lightweight-extensible-and-testable-llm-agents/
 
+- AutoGPT: build & use AI agents - https://github.com/Significant-Gravitas/AutoGPT
+
 - MultiAgentSystems, AI Self-Modification and Self-Replication: A Future Perspective: https://huggingface.co/MultiAgentSystems
 - Ix , Autonomous GPT-4 agent platform: https://github.com/kreneskyp/ix
 - Agentverse: My Agents , Fetch.ai : https://fetch.ai/docs/concepts/agent-services/agent-hosting
@@ -57,9 +59,14 @@
 - Implementation of "Generative Agents: Interactive Simulacra of Human Behavior" paper with Guidance and Langchain. Full features and work with local LLMs : https://github.com/QuangBK/generativeAgent_LLM
 
 - A list of AI autonomous agents: https://github.com/e2b-dev/awesome-ai-agents
+- Awesome LLM-Powered Agent: https://github.com/hyp1231/awesome-llm-powered-agent
+- Awesome-AGI-Agents - https://github.com/yzfly/Awesome-AGI-Agents
+
 - GPTEngineer - https://twitter.com/brianroemmele/status/1669096441774759936
 - GPTEngineer - https://github.com/gpt-engineer-org/gpt-engineer
 - daveshap/OpenAI_Agent_Swarm: HAAS = Hierarchical Autonomous Agent Swarm - https://github.com/daveshap/OpenAI_Agent_Swarm
+- askMatrix.AI is an AI ecosystem that can connect foundation models with millions of APIs for task completion - https://github.com/moymix/TaskMatrix/tree/main/TaskMatrix.AI
+- AI Legion: an LLM-powered autonomous agent platform: https://github.com/eumemic/ai-legion
 
 - Top 10 autonomous Agents - https://www.taskade.com/blog/top-autonomous-agents/
 - LehengTHU/Agent4Rec: The implementation of paper "On Generative Agents in Recommendation - https://github.com/LehengTHU/Agent4Rec
@@ -82,6 +89,10 @@
 - GPT Builder at home...having an agent build another agent!  - https://twitter.com/jerryjliu0/status/1721639447207583882
 - Rivet Is An Open-Source Visual AI Programming Environment which is suited for building complex agents with LLM Prompts, and it was Open Sourced recently - https://twitter.com/cobusgreylingza/status/1701566980728242199
 - a single common interface for communicating with agents. - https://agentprotocol.ai/
+- Agent Protocol - a single common interface for communicating with agents. - https://github.com/AI-Engineer-Foundation/agent-protocol
+- An Open-source Framework for Autonomous Language Agents - https://github.com/aiwaves-cn/agents
+-  delegating everything to agents with JeezAI - https://twitter.com/youraimarketer/status/1739915818056491506
+
 - Amplify your team's potential with customizable and secure AI assistants. https://dust.tt/
 
 
@@ -132,6 +143,7 @@
 
 - The image I'm sharing today encapsulates the architectural evolution that's on the horizon. , Kubiya - https://www.linkedin.com/posts/activity-7145065692839444482-MDIA/
 - Building Blocks of AGI — How Agent Architecture is Shaping the Way we Build AGI Systems - https://medium.com/madhukarkumar/building-blocks-of-agi-how-agent-architecture-is-shaping-the-way-we-build-agi-systems-3672b4dd8b56
+- Role Architectures: Applying LLMs to consequential tasks : https://www.lesswrong.com/posts/AKaf8zN2neXQEvLit/role-architectures-applying-llms-to-consequential-tasks
 
 
 
@@ -230,8 +242,10 @@
 - Stable diffusion & image tools for langchain example - https://github.com/manskx/photo-GPT-telegram/tree/main/photo_gpt
 
 - Code Interpreter API. It's an implementation of the ChatGPT Code Interpreter using LangChain Agents: https://blog.langchain.dev/code-interpreter-api/
+- Open Interpreter - An open-source, locally running implementation of OpenAI's Code Interpreter : https://github.com/KillianLucas/open-interpreter 
 - jbpayton/llm-auto-forge: A langchain based tool to allow agents to dynamically create, use, store, and retrieve tools to solve real world problems - https://github.com/jbpayton/llm-auto-forge
 - allowing agents to use long-running AWS step functions - https://twitter.com/hacubu/status/1675533038560890880
+
 
 
 ## Security 

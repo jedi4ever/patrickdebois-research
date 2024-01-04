@@ -17,6 +17,8 @@
 - Sweep: AI-powered junior dev - https://docs.sweep.dev/
 - Sweep - core algorithm - https://docs.sweep.dev/blogs/sweeps-core-algo
 
+- The first GPT-4V-powered frontend engineer agent - https://twitter.com/mattshumer_/status/1707814443785060729
+
 
 ## Wireframe to Code
 - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React):  https://github.com/abi/screenshot-to-code 
